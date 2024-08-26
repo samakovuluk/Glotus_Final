@@ -1,7 +1,7 @@
 # Glotus_Final
 
-Мобильное приложение интеграции 1с предприятие через Rest интерфейс Odata. Cервере есть php script которое принимает  данную от мобильной приложении, и php script  эти данные, и отправляем все в 1с(использовая интерфейс Odata), 
-которое все это происходит внутри этой же сервере.
+A mobile application for integrating 1C
+via the OData REST interface. There is a PHP script on the server that receives data from the mobile application, processes this data, and sends it to 1C (using the OData interface). All of this occurs within the same server.
 
 
 
